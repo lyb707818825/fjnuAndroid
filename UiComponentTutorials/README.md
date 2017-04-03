@@ -10,7 +10,7 @@ SimpleAdapterDemo界面示例
 
 CustomDialogDemo界面示例
 
-![CustomDialogDemo](https://github.com/lyb707818825/fjnuAndroid/blob/master/UiComponentTutorials/3.png)
+![CustomDialogDemo](https://github.com/lyb707818825/fjnuAndroid/blob/master/UiComponentTutorials/picture/3.png)
 
 XmlMenuDemo界面示例
 
