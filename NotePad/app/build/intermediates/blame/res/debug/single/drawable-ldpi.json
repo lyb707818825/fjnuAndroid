@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-ldpi/app_notes.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-ldpi/app_notes.png"
+    },
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-ldpi/live_folder_notes.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-ldpi/live_folder_notes.png"
+    }
+]

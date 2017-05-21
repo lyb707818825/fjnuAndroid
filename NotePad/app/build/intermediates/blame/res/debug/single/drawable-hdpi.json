@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_revert.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-hdpi/ic_menu_revert.png"
+    },
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-hdpi/app_notes.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-hdpi/app_notes.png"
+    },
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_save.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-hdpi/ic_menu_save.png"
+    },
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_delete.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-hdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_edit.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-hdpi/ic_menu_edit.png"
+    },
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-hdpi/live_folder_notes.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-hdpi/live_folder_notes.png"
+    },
+    {
+        "merged": "/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_compose.png",
+        "source": "/home/snowcheng/AndroidStudioProjects/NotePad/app/src/main/res/drawable-hdpi/ic_menu_compose.png"
+    }
+]

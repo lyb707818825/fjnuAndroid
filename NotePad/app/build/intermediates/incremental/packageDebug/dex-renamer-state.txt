@@ -1,0 +1,7 @@
+#Sun May 21 19:21:27 CST 2017
+base.0=/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_708e3ed49aa7b994710ea47debe9b854396a2cbd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_676df85b117d507a059dd81a131aed0a96eb463d/classes.dex
+base.1=/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_676df85b117d507a059dd81a131aed0a96eb463d
+file.0=/home/snowcheng/AndroidStudioProjects/NotePad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_708e3ed49aa7b994710ea47debe9b854396a2cbd/classes.dex
